@@ -2,23 +2,16 @@
 
 **Henrik Hansen**
 
-Department of Economics and Business Economics
-
-Aarhus University
-
-Fuglesangs Allé 4
-
-8210 Aarhus V
-
+Department of Economics and Business Economics  
+Aarhus University  
+Fuglesangs Allé 4  
+8210 Aarhus V  
 Denmark
 
 
-Office: Building 2620, A203
-
-Phone: +4542444092
-
+Office: Building 2620, A203  
+Phone: +4542444092  
 E-mail: hhansen@econ.au.dk
 
-[CV](CV.md)
-
+[CV](CV.md)  
 [Research](research_articles.md)
