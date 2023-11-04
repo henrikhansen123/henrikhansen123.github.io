@@ -1,5 +1,7 @@
 # Research
 
+{% include navigation.html %}
+
 ## Work In Progress
 
 1. Absenteeism, Wages and the Working Environment  
