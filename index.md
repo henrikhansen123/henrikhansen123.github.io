@@ -1,7 +1,7 @@
 # Home
 
 **Henrik Hansen**  
-PhD student
+PhD student *(2022-2026)*
 
 Department of Economics and Business Economics  
 Aarhus University  
