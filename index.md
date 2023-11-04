@@ -1,6 +1,7 @@
 # Home
 
-**Henrik Hansen**
+**Henrik Hansen**  
+PhD student
 
 Department of Economics and Business Economics  
 Aarhus University  
