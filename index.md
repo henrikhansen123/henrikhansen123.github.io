@@ -1,5 +1,7 @@
 # Home
 
+ {% include navigation.html %}
+
 **Henrik Hansen**  
 PhD student *(2022-2026)*
 
