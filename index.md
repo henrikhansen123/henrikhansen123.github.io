@@ -12,7 +12,7 @@ Denmark
 
 Office: Building 2620, A203  
 Phone: +4542444092  
-E-mail: hhansen@econ.au.dk
+E-mail: {{site.email}}
 
 [CV](CV.md)  
 [Research](research_articles.md)
