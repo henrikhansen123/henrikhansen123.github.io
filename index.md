@@ -12,7 +12,7 @@ Denmark
 
 Office: Building 2620, A203  
 Phone: +4542444092  
-E-mail: {{site.email}}
+E-mail: [{{site.email}}](mailto:{{site.email}})
 
 [CV](CV.md)  
 [Research](research_articles.md)
