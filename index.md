@@ -18,3 +18,4 @@ Office: Building 2620, A203
 Phone: +4542444092  
 E-mail: [{{site.email}}](mailto:{{site.email}})  
 GitHub: [henrikhansen123](https://github.com/henrikhansen123)  
+CV: [CV.pdf](CV.pdf)

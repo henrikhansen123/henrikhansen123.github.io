@@ -43,3 +43,6 @@ nav_order: 3
 ### Teaching
 
 - **2023:** Teaching Assistant, Macroeconomics at Political Science, Aarhus University, Denmark
+
+### Other
+- **2022:** Research Assistant,  Aarhus University, Denmark
