@@ -36,7 +36,7 @@ nav_order: 3
 
 ### Work In Progress
 
-{{site.WIP}}
+{% include WIP.md %}
 
 ### Teaching
 
