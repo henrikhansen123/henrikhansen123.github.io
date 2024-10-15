@@ -24,9 +24,8 @@ jobs:
 
       - name: Prepare Markdown for PDF Conversion
         run: |
-          sed '/{% include WIP.md %}/{
-          r WIP.md
-          d
+          sed '/{% include WIP\.md %}/{
+          r _includes/WIP.md
           }' CV.md > CompleteCV.md
 
       - name: Convert CV Markdown to PDF
