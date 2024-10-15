@@ -6,7 +6,7 @@ on:
       - gh-pages
     paths:
       - 'CV.md'
-      - 'WIP.md'  # This file's changes also trigger the workflow
+      - '_includes/WIP.md'  # This file's changes also trigger the workflow
 
 jobs:
   build:
