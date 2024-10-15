@@ -32,7 +32,8 @@ nav_order: 3
 
 ## Education
 
-- **2024 (Expected):** MSc in Economics, Aarhus University, Denmark
+- **2026 (Expected):** PhD in Economics, Aarhus University, Denmark
+- **2021 → 2024 :** MSc in Economics, Aarhus University, Denmark
 - **2018 → 2021:** BSc Economics and Management, Aarhus University, Denmark  
   - **Project:** [Endogenized bargaining power - A theoretical analysis of union-firm bargaining](/assets/pdfs/endogenized_bargaining_power.pdf)
 
