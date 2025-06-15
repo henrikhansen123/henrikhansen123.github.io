@@ -4,7 +4,9 @@ nav_order: 4
 
 # Interactive Desmos
 
-[Stochastic Dominance](https://www.desmos.com/calculator/tyosybgvrj)
+## Temp
+
+<iframe src="https://www.desmos.com/calculator/iowfbunsx5" ></iframe>
 
 [Risk Aversion](https://www.desmos.com/calculator/fkgg5blxcj)
 
