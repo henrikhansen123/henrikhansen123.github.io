@@ -6,6 +6,16 @@ nav_order: 4
 
 ## Temp
 
+<style>
+iframe {
+  width: 100%;
+  max-width: 1000px;
+  height: 500px;
+  border: none;
+  margin-bottom: 2rem;
+}
+</style>
+
 <iframe src="https://www.desmos.com/calculator/iowfbunsx5" ></iframe>
 
 [Risk Aversion](https://www.desmos.com/calculator/fkgg5blxcj)
