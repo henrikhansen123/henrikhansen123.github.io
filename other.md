@@ -2,9 +2,8 @@
 nav_order: 4
 ---
 
-# Interactive Desmos
+# Interactive graphs of economic concepts
 
-## Temp
 
 <style>
 iframe {
@@ -16,22 +15,32 @@ iframe {
 }
 </style>
 
+## Utility Maximization
+<iframe src="https://www.desmos.com/calculator/gnlq8izcii" ></iframe>
+
+## Expenditure Minimization
+<iframe src="https://www.desmos.com/calculator/r1tvpjao4w" ></iframe>
+
+## Taxation
+<iframe src="https://www.desmos.com/calculator/fbufneggyh" ></iframe>
+
+## Risk Aversion
+<iframe src="https://www.desmos.com/calculator/l0ttcnu037" ></iframe>
+
+## DMP-model
+<iframe src="https://www.desmos.com/calculator/6x6wriers5" ></iframe>
+
+## Limited Dependent Variable
+<iframe src="https://www.desmos.com/calculator/qdj4mamlfe" ></iframe>
+
+## Edgeworth Box
+<iframe src="https://www.desmos.com/calculator/todwypkklh" ></iframe>
+
+## Compensating Wage Differentials: Discrete
+<iframe src="https://www.desmos.com/calculator/ibbyacke1j" ></iframe>
+
+## Long Run Housing Market Equilibrium
+<iframe src="https://www.desmos.com/calculator/uxdkaqfspz" ></iframe>
+
+## Labor Leisure Trade Off
 <iframe src="https://www.desmos.com/calculator/iowfbunsx5" ></iframe>
-
-[Risk Aversion](https://www.desmos.com/calculator/fkgg5blxcj)
-
-[DMP model](https://www.desmos.com/calculator/70ggvpenkz)
-
-[Labor-leisure Model with Constrained Hours](https://www.desmos.com/calculator/maxsz7tev0)
-
-[Union Bargaining Models](https://www.desmos.com/calculator/hmc8tb5log)
-
-[Rosen Model of Equivalizing Differences](https://www.desmos.com/calculator/vzefeldbvn)
-
-[Utility Maximization](https://www.desmos.com/calculator/ssc9iwn3mn)
-
-[Expenditure Minimization](https://www.desmos.com/calculator/b4og6n7zw9)
-
-[Inequality Constrained Optimization](https://www.desmos.com/calculator/we3v92ppma)
-
-[Demand for Worker Absenteeism](https://www.desmos.com/calculator/7ylzwthbpd)
