@@ -4,7 +4,7 @@ nav_order: 1
 
 # Home
 
-<img src="assets/untitled.png" alt="Profile" width="600">
+<img src="assets/Untitled.png" alt="Profile" width="600">
 
 
 **Henrik Hansen**  
