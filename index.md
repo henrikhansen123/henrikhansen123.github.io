@@ -4,6 +4,9 @@ nav_order: 1
 
 # Home
 
+<img src="assets/untitled.png" alt="Profile" width="600">
+
+
 **Henrik Hansen**  
 PhD student *(2022-2026)*
 
