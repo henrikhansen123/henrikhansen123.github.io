@@ -13,8 +13,6 @@ nav_order: 3
 **Contact Information**
 
 - **Address:** Department of Economics and Business Economics, Aarhus University  
-               Fuglesangs Allé 4, 8210 Aarhus V, Denmark  
-               Building 2620, A203
 - **Phone:** +4542444092
 - **Email:** [hhansen@econ.au.dk](mailto:hhansen@econ.au.dk)
 - **Website:** [henrikhansen123.github.io](https://henrikhansen123.github.io/)
