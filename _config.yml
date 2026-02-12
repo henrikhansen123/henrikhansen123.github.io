@@ -1,7 +1,10 @@
-name: ""
-title: null
+name: "Henrik Hansen"
+title: "Henrik Hansen"
 
+author: "Henrik Hansen"
 email: "hhansen@econ.au.dk"
+
+author_profile: false
 
 remote_theme: just-the-docs/just-the-docs
 

@@ -1,26 +1,58 @@
 .side-bar {
-  width: 10%;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-right: 0;
+  border-bottom: 1px solid #e6e6e6;
+  padding: 0.6rem 1.5rem;
 }
 
-/* Responsive: on small screens make the sidebar full width and stack links */
-@media (max-width: 768px) {
-  .side-bar {
-    width: 100% !important;
-    float: none !important;
-    display: block !important;
-  }
+.main {
+  margin-left: 0;
+  max-width: 68rem;
+}
 
-  /* The navigation include currently uses a table. Make the table and its cells
-     behave like block elements on small screens so links don't get squeezed. */
-  .side-bar table,
-  .side-bar table tr,
-  .side-bar table td {
+.site-header {
+  margin: 0;
+  padding: 0;
+}
+
+.site-title {
+  display: none;
+}
+
+.site-nav-custom ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-nav-custom a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-nav-custom a.active {
+  font-weight: 700;
+  border-bottom: 2px solid currentColor;
+}
+
+.profile-photo {
+  float: right;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  width: 220px;
+  border-radius: 4px;
+}
+
+@media (max-width: 900px) {
+  .profile-photo {
+    float: none;
     display: block;
-    width: 100%;
-  }
-
-  .side-bar table td a {
-    display: inline-block;
-    padding: 0.5rem 1rem;
+    margin: 0 0 1rem;
+    width: 180px;
   }
 }

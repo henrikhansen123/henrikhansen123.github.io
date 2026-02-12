@@ -1,8 +1,9 @@
-<table>
-    <tr>
-        <td><a href=".">Home</a></td>
-        <td><a href="CV">CV</a></td>
-        <td><a href="research_articles">Research</a></td>
-        <td><a href="skateboarding">Skateboarding</a></td>
-    </tr>
-</table>
+<nav class="site-nav-custom" aria-label="Primary">
+  <ul>
+    <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+    <li><a href="{{ '/research_articles/' | relative_url }}" {% if page.url contains '/research_articles' %}class="active"{% endif %}>Research</a></li>
+    <li><a href="{{ '/CV/' | relative_url }}" {% if page.url contains '/CV' %}class="active"{% endif %}>CV</a></li>
+    <li><a href="{{ '/other/' | relative_url }}" {% if page.url contains '/other' %}class="active"{% endif %}>Interactive graphs</a></li>
+    <li><a href="{{ '/skateboarding/' | relative_url }}" {% if page.url contains '/skateboarding' %}class="active"{% endif %}>Skateboarding</a></li>
+  </ul>
+</nav>

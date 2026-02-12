@@ -4,9 +4,7 @@ nav_order: 1
 
 # Home
 
-<div style="float: right; margin-left: 32px;">
-  <img src="assets/Untitled.png" alt="Profile" width="200">
-</div>
+<img class="profile-photo" src="assets/Untitled.png" alt="Profile photo of Henrik Hansen">
 
 **Henrik Hansen**  
 PhD student *(2022-2026)*
