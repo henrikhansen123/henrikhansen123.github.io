@@ -17,7 +17,7 @@ Universitetsbyen 51
 8210 Aarhus V  
 Denmark
 
-Office: Building 1814, 329
+Office: Building 1814, 329  
 E-mail: [{{site.email}}](mailto:{{site.email}})  
 GitHub: [henrikhansen123](https://github.com/henrikhansen123)  
 Pure profile: [Pure AU](https://www.au.dk/en/hhansen@econ.au.dk)  
