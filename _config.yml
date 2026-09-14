@@ -5,6 +5,11 @@ email: "hhansen@econ.au.dk"
 
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
 search_enabled: false
 
 color_scheme: wider

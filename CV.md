@@ -41,6 +41,7 @@ nav_order: 3
 
 ### Teaching
 
+- **2025:** Teaching Assistant, Economics 1 at Business Economics, Aarhus University, Denmark
 - **2023:** Teaching Assistant, Macroeconomics at Political Science, Aarhus University, Denmark
 
 ### Other
